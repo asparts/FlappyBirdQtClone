@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>floppydisk.png</file>
+        <file>pipe.png</file>
+        <file>sky.png</file>
+    </qresource>
+</RCC>
